@@ -56,7 +56,7 @@ body {
 .orb-1 {
 	width: 600px;
 	height: 600px;
-	background: 
+	background:radial-gradient(circle, var(--glow-cyan) 0%, transparent 70%); 
 	top: -200px;
 	left: -200px;
 	animation-delay: 0s;
@@ -1819,3 +1819,4 @@ body {
 	}
 
 }
+
